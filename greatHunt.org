@@ -1,3 +1,4 @@
+The Great Hunt -*- mode: org -*-
 #+TODO: TROUBLESOME DANGEROUS FORMIDABLE EXTREME EPIC | RESOLVED
 
 * The Character: 
@@ -96,4 +97,7 @@
 * The Story
 
 ** Session One
-   Snow fell as the young man pulled his cloak around himself.
+   Snow fell as the young man pulled his cloak around himself. Kilshire lay in
+   flames. /'How many more times do those damned Norsemen have to raid us?'/,
+   the man thought as he shivered. /'And yet the winter is almost here - what
+   are we to do to survive the raids as well?'/
